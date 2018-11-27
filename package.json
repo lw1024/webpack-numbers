@@ -2,16 +2,24 @@
   "name": "webpack-numbers",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "luwei",
   "license": "ISC",
   "devDependencies": {
     "lodash": "^4.17.11",
     "webpack": "^4.26.0",
     "webpack-cli": "^3.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw1024/webpack-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lw1024/webpack-numbers/issues"
+  },
+  "homepage": "https://github.com/lw1024/webpack-numbers#readme"
 }
